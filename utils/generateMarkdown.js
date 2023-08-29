@@ -45,14 +45,15 @@ ${data.description}
 * [Description](#description)
 * [Installation](#installation)
 * [Usage](#usage)
-* [Credits] (#credits)
+* [Credits](#credits)
 ${renderLicenseLink(data)}
 
 ## Installation
-
+${data.installation}
 ## Usage
-
+${data.usage}
 ## Credits
+${data.credits}
 
 ${renderLicenseSection(data)}
 `;
